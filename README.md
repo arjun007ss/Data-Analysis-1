@@ -1,5 +1,5 @@
 # Data-Analysis-1
-Here i have done the Data Anlaysis through Jupyter Notebook. 
+Here i have done the Data Analysis through Jupyter Notebook. 
 Libraries that i have used in this project are:- Pandas, Numpy, Matplotlib
 Pre-requiste:-
 Jupyter Notebook
